@@ -1,0 +1,66 @@
+.lead.mb-4 {
+    width: 50%;
+    margin: auto;
+    color: darkgreen;
+}
+
+.title-section {
+    padding-top: -50%;
+    padding-bottom: 10px;
+    background-color: black;
+    font-family: 'Black Ops One', system-ui;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Rubik Glitch Pop', system-ui;
+    font-family: 'Sixtyfour', sans-serif;
+}
+
+.lead.mb-4 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.display-5.fw-bold.text-body-emphasis {
+    color: red!important;
+}
+
+.d-block.mx-auto.mb-4 {
+    width: 350px;
+    height: 450px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.badge.text-bg-success.rounded-pill {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -25px;
+    background-color: lightgreen!important;
+    color: black!important;
+}
+
+.icon-square.text-body-emphasis.bg-body-secondary.d-inline-flex.align-items-center.justify-content-center.fs-4.flex-shrink-0.me-3 {
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.fs-2.text-body-emphasis {
+    color: black!important;
+}
+
+.skills-section {
+    background-color: red;
+}
+
+.xp-gang {
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+
+.display-5.fw-bold.text-white {
+    color: black!important;
+}
+
+button {
+    color: green!important;
+    border-color: green!important;
+}
